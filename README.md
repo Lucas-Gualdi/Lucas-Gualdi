@@ -19,9 +19,6 @@ Currently studying Java and Spring Boot.
 ## Projects
 
 - Java Calculator (basic operations)
-- User Management System (console application)
-- Bank System Simulation
-- REST API with Spring Boot (learning)
 
 ---
 
