@@ -1,16 +1,36 @@
-## Hi there 👋
+# Lucas Gualdi
 
-<!--
-**Lucas-Gualdi/Lucas-Gualdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student focused on Backend Development.
 
-Here are some ideas to get you started:
+Currently studying Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Java
+- Object-Oriented Programming
+- Backend Development (learning)
+- Git & GitHub
+- Programming Logic
+
+---
+
+## Projects
+
+- Java Calculator (basic operations)
+- User Management System (console application)
+- Bank System Simulation
+- REST API with Spring Boot (learning)
+
+---
+
+## Goal
+
+Build solid backend development skills using Java and Spring Boot, focusing on clean code and good software practices.
+
+---
+
+## Stack
+
+Java • Spring Boot (learning) • Git • Backend Development
